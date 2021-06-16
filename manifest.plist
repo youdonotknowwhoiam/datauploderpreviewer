@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/youdonotknowwhoiam/datauploderpreviewer/raw/main/shu_ju_zhu_shou-562701623811538.ipa</string>
+					<string>https://raw.githubusercontent.com/youdonotknowwhoiam/datauploderpreviewer/master/shu_ju_zhu_shou-562701623811538.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://github.com/youdonotknowwhoiam/datauploderpreviewer/raw/main/Icon-57.png</string>
+					<string>https://raw.githubusercontent.com/youdonotknowwhoiam/datauploderpreviewer/master/Icon-57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://github.com/youdonotknowwhoiam/datauploderpreviewer/raw/main/Icon-512.png</string>
+					<string>https://raw.githubusercontent.com/youdonotknowwhoiam/datauploderpreviewer/master/Icon-512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -37,7 +37,7 @@
 				<key>platform-identifier</key>
 				<string>com.apple.platform.iphoneos</string>
 				<key>title</key>
-				<string>DataUploadPreviewer</string>
+				<string>数据助手</string>
 			</dict>
 		</dict>
 	</array>
